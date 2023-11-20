@@ -1,3 +1,5 @@
+![image](https://github.com/Luiz107/Desafio-Bayer/assets/99222139/3dda3350-bd90-4a2a-a8f4-1405c55b6977)
+
 # Desafio-Bayer
 Trabalho de final de semestre: desafio proposto pela Bayer Brasil para solucionar através de um sistema, monitoramento de casos de doenças no país, com foco na prevenção da zika, malária e dengue.
 Nota final desse trabalho após pitch e avaliação: 47/50 ( 47 de 50 pontos ).
